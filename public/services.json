@@ -1,0 +1,51 @@
+[
+  {
+    "id": 101,
+    "name": "replace tire",
+    "price": 2000,
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam eligendi, aliquid temporibus libero voluptate possimus dolorum. Iste itaque odit fuga cumque, nemo impedit odio accusamus alias eum, nobis nesciunt placeat praesentium nihil id neque quas illum at ad cum magni eos hic eveniet, vitae delectus. Harum assumenda quod voluptates natus.",
+    "img": "https://i.ibb.co/Fqr6tD5/service.jpg"
+  },
+  {
+    "id": 102,
+    "name": "repear tire",
+    "price": 1500,
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam eligendi, aliquid temporibus libero voluptate possimus dolorum. Iste itaque odit fuga cumque, nemo impedit odio accusamus alias eum, nobis nesciunt placeat praesentium nihil id neque quas illum at ad cum magni eos hic eveniet, vitae delectus. Harum assumenda quod voluptates natus.",
+    "img": "https://i.ibb.co/yXc6T6X/service1.jpg"
+  },
+  {
+    "id": 103,
+    "name": "break tire",
+    "price": 2200,
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam eligendi, aliquid temporibus libero voluptate possimus dolorum. Iste itaque odit fuga cumque, nemo impedit odio accusamus alias eum, nobis nesciunt placeat praesentium nihil id neque quas illum at ad cum magni eos hic eveniet, vitae delectus. Harum assumenda quod voluptates natus.",
+    "img": "https://i.ibb.co/3fmNcsm/service2.jpg"
+  },
+  {
+    "id": 104,
+    "name": "wash tire",
+    "price": 1200,
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam eligendi, aliquid temporibus libero voluptate possimus dolorum. Iste itaque odit fuga cumque, nemo impedit odio accusamus alias eum, nobis nesciunt placeat praesentium nihil id neque quas illum at ad cum magni eos hic eveniet, vitae delectus. Harum assumenda quod voluptates natus.",
+    "img": "https://i.ibb.co/b14Ck27/service3.jpg"
+  },
+  {
+    "id": 105,
+    "name": "wash car",
+    "price": 2000,
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam eligendi, aliquid temporibus libero voluptate possimus dolorum. Iste itaque odit fuga cumque, nemo impedit odio accusamus alias eum, nobis nesciunt placeat praesentium nihil id neque quas illum at ad cum magni eos hic eveniet, vitae delectus. Harum assumenda quod voluptates natus.",
+    "img": "https://i.ibb.co/vJM743j/service4.jpg"
+  },
+  {
+    "id": 106,
+    "name": "replace body",
+    "price": 2500,
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam eligendi, aliquid temporibus libero voluptate possimus dolorum. Iste itaque odit fuga cumque, nemo impedit odio accusamus alias eum, nobis nesciunt placeat praesentium nihil id neque quas illum at ad cum magni eos hic eveniet, vitae delectus. Harum assumenda quod voluptates natus.",
+    "img": "https://i.ibb.co/Dg4Gkqm/service5.jpg"
+  }
+]
+
+
+
+
+
+
+
